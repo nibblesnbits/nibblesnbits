@@ -1,4 +1,4 @@
-My name is Stephen Collins, and I am a Software Architect, currently serving as the Technical Lead at [Ostrich](https://getostrich.com).  I am also the creator of [UnAd](https://unad.tech/about), a direct-to-consumer SMS marketing platform.
+My name is Stephen Collins, and I am a Software Architect, currently serving as the Technical Lead at [Ostrich](https://getostrich.com).  I am also the creator of [UnAd](https://theunad.com), a direct-to-consumer SMS marketing platform.
 
 I'm not just a programmer, not just a coder.  I have spent the last 25+ years of my life focused on honing my skills in creating high quality software.  I craft products that I can be proud of.
 
