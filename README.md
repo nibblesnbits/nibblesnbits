@@ -6,6 +6,8 @@ After spending the last 10 years in various professional development roles, I ca
 
 I'm not a cog that churns out code without regard for anything but “getting the job done.” I'm a craftsman who carefully and meticulously devises the best possible solution to every problem presented, with the help of other experts.
 
+> **I'm looking for work!**
+> My resume can be found [here](https://nibblesnbits.github.io/resume.pdf).
 
 You can contact me via email at [sgcollins@outlook.com](mailto:sgcollins@outlook.com).
 
