@@ -1,3 +1,6 @@
+> **I'm looking for work!**
+> My resume can be found [here](https://nibblesnbits.github.io/resume.pdf).
+
 My name is Stephen Collins, and I am a Software Architect, currently serving as the Technical Lead at [Ostrich](https://getostrich.com).  I am also the creator of [UnAd](https://theunad.com), a direct-to-consumer SMS marketing platform.
 
 I'm not just a programmer, not just a coder.  I have spent the last 25+ years of my life focused on honing my skills in creating high quality software.  I craft products that I can be proud of.
@@ -6,8 +9,6 @@ After spending the last 10 years in various professional development roles, I ca
 
 I'm not a cog that churns out code without regard for anything but “getting the job done.” I'm a craftsman who carefully and meticulously devises the best possible solution to every problem presented, with the help of other experts.
 
-> **I'm looking for work!**
-> My resume can be found [here](https://nibblesnbits.github.io/resume.pdf).
 
 You can contact me via email at [sgcollins@outlook.com](mailto:sgcollins@outlook.com).
 
