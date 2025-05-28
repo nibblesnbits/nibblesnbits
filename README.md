@@ -13,4 +13,4 @@ You can contact me via email at [sgcollins@outlook.com](mailto:sgcollins@outlook
 
 If you want a real look into how I view software, check out my appearance on the [Silicon Alley Podcast](https://anchor.fm/silicon-alley/episodes/The-Human-Side-of-Software--Stephen-Collins--Founder-of-Double-Precision-Software-enmbh3)
 
-I also [do some writing]() when the mood strikes.
+I also [do some writing](https://thrd.me/read) when the mood strikes.
