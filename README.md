@@ -1,6 +1,3 @@
-> **I'm looking for work!**
-> My resume can be found [here](https://nibblesnbits.github.io/static/resume.pdf).
-
 My name is Stephen Collins, and I am a Software Architect, currently serving as the Technical Lead at [Ostrich](https://getostrich.com) and a contractor for PricewaterhouseCoopers.
 I'm not just a programmer, not just a coder.  I have spent the last 25+ years of my life focused on honing my skills in creating high quality software.  I craft products that I can be proud of.
 
@@ -13,4 +10,4 @@ You can contact me via email at [sgcollins@outlook.com](mailto:sgcollins@outlook
 
 If you want a real look into how I view software, check out my appearance on the [Silicon Alley Podcast](https://anchor.fm/silicon-alley/episodes/The-Human-Side-of-Software--Stephen-Collins--Founder-of-Double-Precision-Software-enmbh3)
 
-I also [do some writing](https://thrd.me/read) when the mood strikes.
+I also [do some writing](https://thrd.me/) when the mood strikes.
