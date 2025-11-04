@@ -1,5 +1,5 @@
-My name is Stephen Collins, and I am a Software Architect, currently serving as the Technical Lead at [Ostrich](https://getostrich.com) and a contractor for PricewaterhouseCoopers.
-I'm not just a programmer, not just a coder.  I have spent the last 25+ years of my life focused on honing my skills in creating high quality software.  I craft products that I can be proud of.
+My name is Stephen Collins.  I'm currently serving as the Technical Lead at [Ostrich](https://getostrich.com) and Senior Developer at [Tryon Creek Software](https://tryonsoft.com/).
+I'm not just a programmer, not just a coder.  I have spent the last 30+ years of my life focused on honing my skills in creating high quality software.  I craft products that I can be proud of.
 
 After spending the last 10 years in various professional development roles, I can confidently say I am not your typical code monkey.  Not because I would be so brash to assume I am inherently more talented or intelligent than my colleagues, but simply that I care.  I care about the quality of my code.  I care about the experience of the users of the software I write and contribute to.  I care about the level of pain other developers may have to deal with when modifying code I have written.  I care about the long-term effects of changes to a codebase.
 
